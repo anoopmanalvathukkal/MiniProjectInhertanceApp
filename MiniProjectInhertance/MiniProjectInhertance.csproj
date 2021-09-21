@@ -46,7 +46,7 @@
     <Compile Include="Models\BookModel.cs" />
     <Compile Include="Models\ExcavatorModel.cs" />
     <Compile Include="Interfaces\IInventoryItem.cs" />
-    <Compile Include="Interfaces\InventoryItemModel.cs" />
+    <Compile Include="Models\InventoryItemModel.cs" />
     <Compile Include="Interfaces\IPurchase.cs" />
     <Compile Include="Interfaces\IRentalable.cs" />
     <Compile Include="Program.cs" />
